@@ -48,6 +48,8 @@ Presentation slides for the [ISMRM Workshop on 40 Years of Diffusion](https://ww
   </div>
 </div>
 
+<img src="./assets/qr-code.png" class="absolute top-5 left-5 w-20 opacity-90">
+
 <div class="abs-tr m-6 text-sm">
   <carbon:calendar /> Feb. 19. 2025
 </div>
@@ -1004,3 +1006,4 @@ Presentation slides for the [ISMRM Workshop on 40 Years of Diffusion](https://ww
   </div>
 </div>
 
+<img src="./assets/qr-code.png" class="absolute top-5 left-1/2 -translate-x-1/2 w-45 opacity-90">
