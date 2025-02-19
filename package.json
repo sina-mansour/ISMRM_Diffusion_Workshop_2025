@@ -1,0 +1,33 @@
+{
+  "name": "ismrm-workshop-2025",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.1.1",
+    "@slidev/client": "^51.1.1",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "katex": "^0.16.21",
+    "vue": "^3.5.13"
+  },
+  "pnpm": {
+    "ignoredBuiltDependencies": [
+      "esbuild",
+      "vue-demi"
+    ],
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "playwright-chromium",
+      "vue-demi"
+    ]
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.50.1"
+  }
+}

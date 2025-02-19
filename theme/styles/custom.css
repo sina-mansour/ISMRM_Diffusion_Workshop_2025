@@ -1,0 +1,18 @@
+.slidev-layout {
+    ul {
+        margin-top: 20px;
+        li {
+            margin-top: 10px;
+        }
+    }
+    
+    .slow-fade-enter-active,
+    .slow-fade-leave-active {
+        transition: opacity 8s ease;
+    }
+    
+    .slow-fade-enter-from,
+    .slow-fade-leave-to {
+        opacity: 0;
+    }
+}
