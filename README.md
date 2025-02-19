@@ -1,11 +1,6 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+## Charting Multi-Scale Brain Phenotypes Using
+# **Spectral Normative Models**
 
-To start the slide show:
+Presentation slides for the [ISMRM Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/)
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+Live demo [here](https://sina-mansour.github.io/ISMRM_Diffusion_Workshop_2025).
