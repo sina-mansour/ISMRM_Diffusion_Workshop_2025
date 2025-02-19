@@ -6,7 +6,7 @@ themeConfig:
   primary: '#0097a7'
   darkMode: false
 # background image
-background: ./assets/header.jpg
+background: /header.jpg
 # some information about your slides (markdown enabled)
 title: Charting Multi-Scale Brain Phenotypes Using Spectral Normative Models
 info: |
